@@ -32,6 +32,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
+
+
+
+
 <img src ='vedioWalkThroughWordle.gif' title = 'Video Walkthrough' width = '' alt = 'Video Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
